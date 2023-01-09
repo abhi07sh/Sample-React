@@ -42,6 +42,7 @@
   border: 4px solid #0d5f10;
   color: solid rgb(0, 0, 0);
   padding: 5px 10px;
+  border-radius: 2px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
